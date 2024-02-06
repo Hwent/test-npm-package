@@ -1,0 +1,22 @@
+{
+  "name": "hwent-test",
+  "version": "1.0.0",
+  "description": "test npm publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hwent/test-npm-package.git"
+  },
+  "keywords": [
+    "hwent"
+  ],
+  "author": "hwent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hwent/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/Hwent/test-npm-package#readme"
+}
